@@ -1,4 +1,4 @@
-![Lens It logo](docs/logo.svg)
+![Lens It logo](https://wandercoil.github.io/lensit/logo.svg)
 
 # Lens It
 
